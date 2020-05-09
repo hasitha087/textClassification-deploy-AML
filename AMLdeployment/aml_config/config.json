@@ -1,0 +1,8 @@
+{
+  "subscription_id": "azure_subscription_id",
+  "resource_group": "resource_group",
+  "location": "location",
+  "tenant_id": "tenant_id",
+  "service_principle_id": "service_principle_id",
+  "service_principle_password": "service_principle_password"
+}

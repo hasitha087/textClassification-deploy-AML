@@ -1,0 +1,15 @@
+comment,sentiment,label
+really good onboarding experience,positive,2
+very bad experience,negative,0
+this is my first job,neutral,1
+presentation was really bad.,negative,0
+awesome experience,positive,2
+all are fine,positive,2
+all the facilities are good,positive,2
+disgusting,negative,0
+nothing special,neutral,1
+career building,neutral,1
+delayed to get into work,negative,0
+Friendly and good working environment,positive,2
+fully satisfied,positive,2
+work environment is not good at all,negative,0
