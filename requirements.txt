@@ -24,7 +24,7 @@ azureml-train-core==1.4.0
 azureml-train-restclients-hyperdrive==1.4.0
 backports.tempfile==1.0
 backports.weakref==1.0.post1
-certifi==2020.4.5.1
+certifi==2022.12.7
 cffi==1.14.0
 chardet==3.0.4
 click==7.1.2
